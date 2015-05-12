@@ -23,6 +23,9 @@
     "mocha": "~1.8.1",
     "jshint": "~0.9.1"
   },
+  "browser": {
+    "clone": "clone-component"
+  },
   "dependencies": {
     "clone-component": "~0.1.0"
   }
