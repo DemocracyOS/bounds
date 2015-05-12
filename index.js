@@ -1,10 +1,4 @@
-var clone;
-
-if ('undefined' == typeof window) {
-  clone = require('clone-component');
-} else {
-  clone = require('clone');
-}
+var clone = require('clone');
 
 module.exports = Bounds;
 
