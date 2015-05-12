@@ -27,6 +27,6 @@
     "clone": "clone-component"
   },
   "dependencies": {
-    "clone-component": "~0.1.0"
+    "clone-component": "~0.2.2"
   }
 }
