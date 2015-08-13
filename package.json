@@ -1,5 +1,5 @@
 {
-  "name": "bounds",
+  "name": "democracyos-bounds",
   "version": "1.0.0",
   "description": "Mixin for checking if value is inside or outside of bounds",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:code42day/bounds.git"
+    "url": "git@github.com:DemocracyOS/bounds.git"
   },
   "keywords": [
     "bounds",
